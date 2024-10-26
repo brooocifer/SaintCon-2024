@@ -1,3 +1,5 @@
+Files for ordering the PCB are in the ***Gerber*** directory
+
 Parts
 - (x1) PCB
 - (x8) Male header pins
