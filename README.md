@@ -8,9 +8,9 @@ This is a quick and dirty archive of the Health Care Hacking Community at [Saint
 
 - The video that played on the display in the Community booth (12:28 minutes long! The first 1:30 contains informational content, the remainder of the video is video effects around the Community logo) is found [here](https://drive.google.com/file/d/16lCR65fBbzA4Dzpku5kPhey_Xz0Jp-Be/view?usp=drive_link). Created by [Spenze](https://spencerjamesproductions.com/).
 
-- The mini-badge and prize badge build information is here: [Mini-badge](https://drive.google.com/file/d/1ATFBJlPe2GoRbJnTWT3q0V5KnO0iFPcM/view?usp=drive_link) and [Prize Badge](https://drive.google.com/file/d/1pjYImAD9bnm5rPrVIuyTXGip4ZBo-Cw-/view?usp=drive_link).
-
-- Here is a screenshot of an attendees' reaction to visiting the booth: ![Tweet](https://drive.google.com/uc?id=17EtfWekjcf--SIVvZkXYMlC6Q1ewD-LZ).
+- The mini-badge build information: ![Mini-badge](https://drive.google.com/uc?id=1ATFBJlPe2GoRbJnTWT3q0V5KnO0iFPcM)
+- The prize badge build information: ![Prize Badge](https://drive.google.com/uc?id=1pjYImAD9bnm5rPrVIuyTXGip4ZBo-Cw-)
+- Here is a screenshot of an attendees' reaction to visiting the booth: ![Tweet](https://drive.google.com/uc?id=17EtfWekjcf--SIVvZkXYMlC6Q1ewD-LZ)
 
 - And photos of the mid-con repairs to the operation game:
   - a
