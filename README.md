@@ -10,7 +10,7 @@ This is a quick and dirty archive of the Health Care Hacking Community at [Saint
 
 - The mini-badge and prize badge build information is here: [Mini-badge](https://drive.google.com/file/d/1ATFBJlPe2GoRbJnTWT3q0V5KnO0iFPcM/view?usp=drive_link) and [Prize Badge](https://drive.google.com/file/d/1pjYImAD9bnm5rPrVIuyTXGip4ZBo-Cw-/view?usp=drive_link).
 
-- Here is a screenshot of an attendees' reaction to visiting the booth: [Tweet](https://drive.google.com/file/d/17EtfWekjcf--SIVvZkXYMlC6Q1ewD-LZ/view?usp=drive_link).
+- Here is a screenshot of an attendees' reaction to visiting the booth: ![Tweet](https://drive.google.com/file/d/17EtfWekjcf--SIVvZkXYMlC6Q1ewD-LZ/view?usp=drive_link).
 
 - And photos of the mid-con repairs to the operation game:
   - a
@@ -46,4 +46,4 @@ A big thanks to our unofficial volunteers:
 - BJ
 - Rob
 - Spenze
-- Many of our co-workers and friends who just stopped by
+- Many of our co-workers and friends who just stopped by to help
