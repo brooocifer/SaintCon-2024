@@ -1,6 +1,6 @@
 SaintCon 2024
 
-This is a quick and dirty archive of the Health Care Hacking Community at [SaintCon 2024](https://discord.gg/saintcon), files collected from a variety of individuals and sources.
+This is an archive of the Health Care Hacking Community at [SaintCon 2024](https://discord.gg/saintcon), files collected from a variety of individuals and sources.
 
 - Details about the prize badge are in the [HCHCPrizeBadge](HCHCPrizeBadge) folder.
 
@@ -12,24 +12,33 @@ This is a quick and dirty archive of the Health Care Hacking Community at [Saint
 - The prize badge build information: ![Prize Badge](https://drive.google.com/uc?id=1pjYImAD9bnm5rPrVIuyTXGip4ZBo-Cw-)
 - Here is a screenshot of an attendees' reaction to visiting the booth: ![Tweet](https://drive.google.com/uc?id=17EtfWekjcf--SIVvZkXYMlC6Q1ewD-LZ)
 
-- And photos of the mid-con repairs to the operation game:
-  - a
-  - b
 
 - We forgot to take photos or videos while we were setting up. Here are photos and videos of the booth completely set up, prior to the conference opening:
-  - a
-  - b
-  - c
+  - [Video starting with the Operation game](https://drive.google.com/file/d/1Baz1mWI1gO3-jHob16l3Fa2B3-bS9Vpf/view?usp=drive_link)
+  - ![b](https://drive.google.com/uc?id=1z-fHSlK2TXB7GeNFdLtNryzIakGnfJ0I)
+  - ![c](https://drive.google.com/uc?id=1_YvarNhFMcjN3vh8vipSz5SKNqw3JMu4)
+  - ![d](https://drive.google.com/uc?id=1qazyQntKNZ_dmtcj2G9Q66J1AXOpkPMO)
+  - ![e](https://drive.google.com/uc?id=1OUAY2E2etGvHokKf3WDPyQX4xLCjErTC)
+  - ![f](https://drive.google.com/uc?id=1HZ77O02hx8OCzb8XJRs8SkKKonF0Hxpm)
+  - [Video walking from East to West](https://drive.google.com/file/d/1XxlpTbz0zJlirlZ7aQ88-Ib2OkTRi8IT/view?usp=drive_link)
+  - [Video walking into the booth toward the Lego Hospital](https://drive.google.com/file/d/19NoEyc6tJSvEY7webUbxVQ2xZ00A_kH9/view?usp=drive_link)
 
 - Here are some photos during the con:
-  - a
-  - b
-  - c
-    
+  - ![a](https://drive.google.com/uc?id=1xoPYW80w6qcGkRJq6co7NSFuVhHXary7)
+  - ![b](https://drive.google.com/uc?id=19XusjAogVWibi0MEZdAQA-Mf8O_VYfcq)
+
+- And photos of the mid-con repairs to the operation game:
+  - ![a](https://drive.google.com/uc?id=1RE6_BNKpTj57-e92o6vzp3WXxUc1NEjF)
+  - ![b](https://drive.google.com/uc?id=1m8qyYMvfF__xJupI5tm4swGUUx86jZ8G)
+
 - And photos of tear-down:
-  - a
-  - b
-  - c
+  - ![a](https://drive.google.com/uc?id=1B89zUU2yO511EgQzJX21ZM8AdVVgHrB8)
+  - ![b](https://drive.google.com/uc?id=1z54ZgpvUmYc_m0GKwltyK-vn4Ol5h-zI)
+  - ![c](https://drive.google.com/uc?id=1wXGhmeqP9Blb5NuKc1rw4lXBw8ei0mUv)
+  - ![d](https://drive.google.com/uc?id=1xIaRLkLGWjh9V21Tccc2RT8PzGhzLcJt)
+  - ![e](https://drive.google.com/uc?id=14WiXbbnwgb9M0DIxq43xSGtrs99ZJ39X)
+  - ![f](https://drive.google.com/uc?id=1hO7YVDKvGq9l_3NSFrWKBR-K0n7AoiGt)
+  - ![g](https://drive.google.com/uc?id=13vFysGX-eeYDhJyv9gKt1MqoZLrjEK8O)
 
 A HUGE Thank You to our Staff and Volunteers!
 - Apoch
